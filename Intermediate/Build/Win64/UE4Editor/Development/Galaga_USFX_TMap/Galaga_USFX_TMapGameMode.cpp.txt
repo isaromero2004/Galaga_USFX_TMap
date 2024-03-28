@@ -1,0 +1,11 @@
+C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\Definitions.Galaga_USFX_TMap.h
+C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Source\Galaga_USFX_TMap\Galaga_USFX_TMapGameMode.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_TMap\Galaga_USFX_TMapGameMode.generated.h
+C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Source\Galaga_USFX_TMap\NaveEnemigaCaza.h
+C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Source\Galaga_USFX_TMap\NaveEnemiga.h
+C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_TMap\NaveEnemiga.generated.h
+C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_TMap\NaveEnemigaCaza.generated.h

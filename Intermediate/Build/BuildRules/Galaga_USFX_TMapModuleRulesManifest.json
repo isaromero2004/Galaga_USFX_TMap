@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\LENOVO\\OneDrive\\Documentos\\Unreal Projects\\Galaga_USFX_TMap\\Source\\Galaga_USFX_TMap\\Galaga_USFX_TMap.Build.cs",
+		"C:\\Users\\LENOVO\\OneDrive\\Documentos\\Unreal Projects\\Galaga_USFX_TMap\\Source\\Galaga_USFX_TMap.Target.cs",
+		"C:\\Users\\LENOVO\\OneDrive\\Documentos\\Unreal Projects\\Galaga_USFX_TMap\\Source\\Galaga_USFX_TMapEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Galaga_USFX_TMap.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\Galaga_USFX_TMapEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\Galaga_USFX_TMap.cpp.obj"
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\Galaga_USFX_TMapGameMode.cpp.obj"
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\Galaga_USFX_TMapPawn.cpp.obj"
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\Galaga_USFX_TMapProjectile.cpp.obj"
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\NaveEnemiga.cpp.obj"
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\NaveEnemigaCaza.cpp.obj"
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\NaveEnemigaNodriza.cpp.obj"
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\NaveEnemigaTransporte.cpp.obj"
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\Galaga_USFX_TMap.init.gen.cpp.obj"
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\Galaga_USFX_TMapGameMode.gen.cpp.obj"
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\Galaga_USFX_TMapPawn.gen.cpp.obj"
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\Galaga_USFX_TMapProjectile.gen.cpp.obj"
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\NaveEnemiga.gen.cpp.obj"
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\NaveEnemigaCaza.gen.cpp.obj"
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\NaveEnemigaNodriza.gen.cpp.obj"
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\NaveEnemigaTransporte.gen.cpp.obj"
+"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\Default.rc2.res"
+/OUT:"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\UE4Editor-Galaga_USFX_TMap.lib"

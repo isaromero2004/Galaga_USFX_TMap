@@ -1,0 +1,3 @@
+C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\Definitions.Galaga_USFX_TMap.h
+C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Source\Galaga_USFX_TMap\NaveEnemiga.h
+C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Inc\Galaga_USFX_TMap\NaveEnemiga.generated.h
