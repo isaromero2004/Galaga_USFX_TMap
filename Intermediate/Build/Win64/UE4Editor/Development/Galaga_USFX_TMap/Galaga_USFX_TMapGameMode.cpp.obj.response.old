@@ -262,8 +262,11 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
+/FI"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\Galaga_USFX_TMapEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\Galaga_USFX_TMapEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\Galaga_USFX_TMapEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
 "C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Source\Galaga_USFX_TMap\Galaga_USFX_TMapGameMode.cpp"
-/FI"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\Definitions.h"
+/FI"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\Definitions.Galaga_USFX_TMap.h"
 /Fo"C:\Users\LENOVO\OneDrive\Documentos\Unreal Projects\Galaga_USFX_TMap\Intermediate\Build\Win64\UE4Editor\Development\Galaga_USFX_TMap\Galaga_USFX_TMapGameMode.cpp.obj"
 /TP
 /GR-
